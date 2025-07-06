@@ -61,7 +61,7 @@ Kendini daha iyi tanımak ve sosyal ilişkilerini geliştirmek isteyen bireyler.
 
 # Product Backlog URL
 
-[Click for Backlog (Miro)](https://miro.com/app/board/uXjVIheT0gE/)
+[Click for Backlog (Miro)](https://miro.com/app/board/uXjVIheT0gE=/)
 
 
 
@@ -74,8 +74,8 @@ Kendini daha iyi tanımak ve sosyal ilişkilerini geliştirmek isteyen bireyler.
 Miro board’unda görev kartları kategorilere göre renk kodlarıyla ayrılmıştır.Bu renk kodları görev takibini kolaylaştırmak ve ekip içi sorumlulukları netleştirmek amacıyla belirlenmiştir.
 * **Daily Scrum:** Daily Scrum toplantıları, ekip üyelerinin günlük ilerlemelerini paylaşmaları ve engelleri belirtmeleri amacıyla her gün WhatsApp grubu üzerinden, gün içindeki müsaitlik durumlarına göre gerçekleştirilmiştir.
 Bu esnek yapı, ekip içi iletişimi artırmış ve koordinasyonu sürdürmeye yardımcı olmuştur.
-Günlük notlar ve iletişim kayıtları ileride referans alınmak üzere arşivlenmiştir.
+Günlük notlar ve iletişim kayıtları için "Sprint 1 Daily Scrums" kalsörünü inceleyebilirsiniz.
 * **Sprint Board Update:**
   ![Sprint Board - Sprint 1](./images/backlog1.png)
-
+* **Ürün Durumu Ekran Görüntüleri:**
   
