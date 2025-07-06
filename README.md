@@ -16,37 +16,37 @@ MindHelp, kullanıcıların kendilerini daha yakından tanımalarını sağlamak
 
 # 🚀 Ürün Özellikleri
 
-## ✅ MBTI Temelli Kişilik Testi
+* ✅ MBTI Temelli Kişilik Testi
   
 16 farklı kişilik tipine göre kullanıcıların analizini yaparak kapsamlı sonuçlar sunar.
 
-## 🔐 Kayıt ve Giriş Sistemi
+* 🔐 Kayıt ve Giriş Sistemi
   
 E-posta ve şifre ile güvenli kullanıcı girişi sağlar; yeni kullanıcılar kolayca hesap oluşturabilir.
 
-## 💬 Sohbet Botu ile Etkileşim
+* 💬 Sohbet Botu ile Etkileşim
 
 Kullanıcının kişilik tipine göre özel yanıtlar veren yapay zekâ destekli sohbet deneyimi sağlar.
 
 # 🎯 Hedef Kitle
 
-## 👩‍🎓 Üniversite Öğrencileri
+* 👩‍🎓 Üniversite Öğrencileri
 
 Kendini tanımak ve kariyer yolculuğuna daha bilinçli adımlar atmak isteyen genç bireyler.
 
-## 🧑‍💼 İK Uzmanları ve Kariyer Danışmanları
+* 🧑‍💼 İK Uzmanları ve Kariyer Danışmanları
 
 Kişilik profillerini analiz ederek daha uygun pozisyon eşleştirmeleri yapmak isteyen profesyoneller.
 
-## 🧠 Psikoloji Meraklıları
+* 🧠 Psikoloji Meraklıları
 
 MBTI gibi kişilik testleriyle ilgilenen, psikolojik gelişime önem veren kullanıcılar.
 
-## 🧑‍🤝‍🧑 Bireysel Gelişimle İlgilenen Kişiler
+* 🧑‍🤝‍🧑 Bireysel Gelişimle İlgilenen Kişiler
 
 Kendini daha iyi tanımak ve sosyal ilişkilerini geliştirmek isteyen bireyler.
 
-## 🏫 Eğitim Kurumları ve Rehberlik Servisleri
+* 🏫 Eğitim Kurumları ve Rehberlik Servisleri
 
 Öğrencilerinin kişilik analizine dayalı rehberlik sağlamak isteyen okullar ve eğitim danışmanları.
 
