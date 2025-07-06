@@ -6,7 +6,7 @@ Takım 119 Yapay Zeka
 
 # Takım Üyeleri
 
-| İsim                   | Rol             | LinkedIn |
+| İsim                   | Rol             | Sosyal Medya |
 |------------------------|------------------|----------|
 | Fatma Didenur Özgüven | Product Owner    | <a href="https://www.linkedin.com/in/fatma-didenur-%C3%B6zg%C3%BCven/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> |
 | Efehan Hüsrevoğlu      | Scrum Master     | <a href="https://www.linkedin.com/in/efehan-husrevoglu-b78306245/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> |
@@ -61,4 +61,13 @@ Kendini daha iyi tanımak ve sosyal ilişkilerini geliştirmek isteyen bireyler.
 
 # SPRINT 1
 
-
+* **Sprint Notları:** MindHelp projesine ait user story'ler, ilgili product backlog kartlarının içerisinde detaylı olarak yer almaktadır. Her backlog kartına tıklanarak bu user story'lerin kapsamı, amacı ve teknik ihtiyaçları okunabilmektedir.
+* **Sprint içinde tamamlanması tahmin edilen puan:** 100 puan
+* **Puan tamamlama mantığı:** Proje genelinde tahmini toplam iş yükü 300 puan olarak öngörülmüş ve bu yük, 3 sprinte eşit şekilde bölünmüştür. Bu sprint, temel sistem altyapısının kurulması ve ilk fonksiyonların hazırlanması odaklı olarak planlanmıştır.
+*  **Backlog düzeni ve story seçimleri:** Sprint 1'de yer alan backlog görevleri, sonraki sprintlerde geliştirilecek modüllerin temelini oluşturacak şekilde sıralanmıştır. Sprint süresince iş gücünü dengelemek amacıyla puan limiti gözetilmiş ve görev dağılımı buna göre gerçekleştirilmiştir.
+Miro board’unda görev kartları kategorilere göre renk kodlarıyla ayrılmıştır.Bu renk kodları görev takibini kolaylaştırmak ve ekip içi sorumlulukları netleştirmek amacıyla belirlenmiştir.
+* **Daily Scrum:** Daily Scrum toplantıları, ekip üyelerinin günlük ilerlemelerini paylaşmaları ve engelleri belirtmeleri amacıyla her gün WhatsApp grubu üzerinden, gün içindeki müsaitlik durumlarına göre gerçekleştirilmiştir.
+Bu esnek yapı, ekip içi iletişimi artırmış ve koordinasyonu sürdürmeye yardımcı olmuştur.
+Günlük notlar ve iletişim kayıtları ileride referans alınmak üzere arşivlenmiştir.
+* **Sprint Board Update:**
+  
