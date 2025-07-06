@@ -83,3 +83,9 @@ Günlük notlar ve iletişim kayıtları için "Sprint 1 Daily Scrums" kalsörü
 ![Ürün Görseli 2](images/product1.png)
 ![Ürün Görseli 3](images/product3.png)
 
+* **Sprint Review:** Sprint 1 sonunda gerçekleştirilen ekip değerlendirmesinde, planlanan tüm görevlerin başarıyla tamamlandığı teyit edildi. GitHub repository’si oluşturularak proje ortamı hazırlandı. Temel React bileşenleri geliştirildi ve stil çalışmaları yapıldı. Login ekranına kullanıcı bulunamadığında uyarı gösterimi eklendi. Ayrıca MBTI testi için soru havuzu başarıyla oluşturuldu. İlk sprintte atılan bu temel adımların projenin ilerleyen aşamaları için sağlam bir zemin sunduğu ifade edildi.
+
+Katılımcılar:
+Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
+
+* **Sprint Retrospective:** Ekip üyeleri, sprint boyunca bazı iletişim kopuklukları yaşandığını ancak bu durumun genel ilerlemeyi olumsuz etkilemediğini belirtti. Görev dağılımında zaman zaman belirsizlikler olsa da, bireysel çabalarla sprint hedeflerine ulaşıldı. İkinci sprintte görevlerin daha net ayrılması ve frontend-backend ekiplerinin koordineli çalışması gerektiği vurgulandı. Günlük ilerleme takibinin WhatsApp üzerinden sürdürülmesine devam edilmesi ve haftalık kısa toplantılarla süreçlerin desteklenmesi önerildi.
