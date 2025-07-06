@@ -6,6 +6,15 @@ Takım 119 Yapay Zeka
 
 # Takım Üyeleri
 
+| İsim                   | Rol             | LinkedIn |
+|------------------------|------------------|----------|
+| Fatma Didenur Özgüven | Product Owner    | <a href="https://www.linkedin.com/in/fatma-didenur-ozguven"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> |
+| Efehan Hüsrevoğlu      | Scrum Master     | <a href="https://www.linkedin.com/in/efehan-husrevoglu"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> |
+| Ahmet Efe Akçay        | Developer        | <a href="https://www.linkedin.com/in/ahmet-efe-akcay"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> |
+| Yusuf Koğa             | Developer        | <a href="https://www.linkedin.com/in/yusuf-koga"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/></a> |
+
+
+
 # Ürün İsmi
 
 MindHelp
