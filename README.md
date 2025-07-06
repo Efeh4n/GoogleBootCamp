@@ -79,3 +79,7 @@ Günlük notlar ve iletişim kayıtları için "Sprint 1 Daily Scrums" kalsörü
   ![Sprint Board - Sprint 1](./images/backlog1.png)
 * **Ürün Durumu Ekran Görüntüleri:**
   
+ ![Ürün Görseli 1](images/product2.png)
+![Ürün Görseli 2](images/product1.png)
+![Ürün Görseli 3](images/product3.png)
+
