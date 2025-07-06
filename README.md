@@ -59,6 +59,12 @@ Kendini daha iyi tanımak ve sosyal ilişkilerini geliştirmek isteyen bireyler.
 
 Öğrencilerinin kişilik analizine dayalı rehberlik sağlamak isteyen okullar ve eğitim danışmanları.
 
+# Product Backlog URL
+
+[Click for Backlog (Miro)](https://miro.com/app/board/uXjVIheT0gE/)
+
+
+
 # SPRINT 1
 
 * **Sprint Notları:** MindHelp projesine ait user story'ler, ilgili product backlog kartlarının içerisinde detaylı olarak yer almaktadır. Her backlog kartına tıklanarak bu user story'lerin kapsamı, amacı ve teknik ihtiyaçları okunabilmektedir.
@@ -70,4 +76,6 @@ Miro board’unda görev kartları kategorilere göre renk kodlarıyla ayrılmı
 Bu esnek yapı, ekip içi iletişimi artırmış ve koordinasyonu sürdürmeye yardımcı olmuştur.
 Günlük notlar ve iletişim kayıtları ileride referans alınmak üzere arşivlenmiştir.
 * **Sprint Board Update:**
+  ![Sprint Board - Sprint 1](./images/backlog1.png)
+
   
