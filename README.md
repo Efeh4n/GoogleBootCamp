@@ -89,3 +89,23 @@ Katılımcılar:
 Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
 
 * **Sprint Retrospective:** Ekip üyeleri, sprint boyunca bazı iletişim kopuklukları yaşandığını ancak bu durumun genel ilerlemeyi olumsuz etkilemediğini belirtti. Görev dağılımında zaman zaman belirsizlikler olsa da, bireysel çabalarla sprint hedeflerine ulaşıldı. İkinci sprintte görevlerin daha net ayrılması ve frontend-backend ekiplerinin koordineli çalışması gerektiği vurgulandı. Günlük ilerleme takibinin WhatsApp üzerinden sürdürülmesine devam edilmesi ve haftalık kısa toplantılarla süreçlerin desteklenmesi önerildi.
+
+# SPRINT 2
+
+* **Sprint Notları:** MindHelp projesinin ikinci sprintinde, birinci sprintte temeli atılan altyapı üzerine ek fonksiyonlar geliştirilmiş ve kullanıcı deneyimini geliştirmeye yönelik arayüz çalışmaları yapılmıştır. Sprint kapsamındaki user story’ler, ilgili backlog kartlarında detaylandırılmıştır. Kartlara tıklanarak teknik gereksinimler ve iş akışları görüntülenebilmektedir.
+*  **Backlog düzeni ve story seçimleri:** Bu sprintte, ilk sprintte tamamlanan temel login altyapısı üzerine yeni özellikler eklenmiştir. Chatbot entegrasyonu için hazırlık yapılmış, MBTI sorularının backend’e entegrasyonu başlatılmıştır. Ayrıca frontend tarafında giriş yap ve kayıt ol ekranları tamamlanıp backend API’lerine bağlanarak çalışır hale getirilmiştir. Backlog kartları yine kategorilere göre renk kodlarıyla düzenlenmiştir ve ekip içi sorumluluk dağılımı buna göre yapılmıştır.
+*  **Daily Scrum:** Daily Scrum toplantıları, birinci sprintte de olduğu gibi ekip üyelerinin günlük ilerlemelerini paylaşmaları ve engelleri belirtmeleri amacıyla her gün WhatsApp grubu üzerinden, gün içindeki müsaitlik durumlarına göre gerçekleştirilmiştir. Bu esnek yapı, ekip içi iletişimi artırmış ve koordinasyonu sürdürmeye yardımcı olmuştur.
+*  **Sprint Board Update:** 
+   ![Sprint Board - Sprint 2](./images/backlog22.png)
+*  **Sprint Review:** Sprint sonunda yapılan değerlendirmede;
+Login için gerekli 2 endpoint’in başarıyla eklendiği ve isim-soyisim girişi sonrası kullanıcıya ID atama mantığının tamamlandığı,
+Backend tarafında chatbot haricinde giriş ve ID oluşturma mantığının tam anlamıyla çalışır hale getirildiği,
+Frontend’de giriş yap ve kayıt ol ekranlarının tasarlanıp backend API’leriyle entegre edildiği,
+Bir sonraki toplantı için tarih belirlendiği
+tespit edilmiştir.
+Henüz tamamlanmayan chatbot entegrasyonu ve MBTI soru akışı API bağlantısı bir sonraki sprintte önceliklendirilmek üzere planlanmıştır.
+  
+Katılımcılar:
+Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
+
+*  **Sprint Retrospective:** Bu sprintte frontend ve backend ekipleri arasında koordinasyon önceki sprinte göre daha net sağlanmıştır. Ancak chatbot entegrasyonu gibi bazı görevlerin ertelenmesi gerektiği için planlamada ufak kaymalar yaşanmıştır. İleriye dönük olarak, sprint başında görevlerin önceliklendirilmesi ve tamamlanma sürelerinin daha gerçekçi tahmin edilmesi gerektiği vurgulanmıştır. WhatsApp üzerinden günlük ilerleme paylaşımına devam edilmesi ve haftalık çevrimiçi kısa toplantıların eklenmesi kararlaştırılmıştır.
