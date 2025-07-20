@@ -89,3 +89,7 @@ Katılımcılar:
 Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
 
 * **Sprint Retrospective:** Ekip üyeleri, sprint boyunca bazı iletişim kopuklukları yaşandığını ancak bu durumun genel ilerlemeyi olumsuz etkilemediğini belirtti. Görev dağılımında zaman zaman belirsizlikler olsa da, bireysel çabalarla sprint hedeflerine ulaşıldı. İkinci sprintte görevlerin daha net ayrılması ve frontend-backend ekiplerinin koordineli çalışması gerektiği vurgulandı. Günlük ilerleme takibinin WhatsApp üzerinden sürdürülmesine devam edilmesi ve haftalık kısa toplantılarla süreçlerin desteklenmesi önerildi.
+
+# SPRINT 2
+
+* **Sprint Notları:** MindHelp projesinin ikinci sprintinde, birinci sprintte temeli atılan altyapı üzerine ek fonksiyonlar geliştirilmiş ve kullanıcı deneyimini geliştirmeye yönelik arayüz çalışmaları yapılmıştır. Sprint kapsamındaki user story’ler, ilgili backlog kartlarında detaylandırılmıştır. Kartlara tıklanarak teknik gereksinimler ve iş akışları görüntülenebilmektedir.
