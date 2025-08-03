@@ -116,9 +116,9 @@ Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
 
 *  **Backlog düzeni ve story seçimleri:** Sprint 3'te yer alan backlog görevleri şu şekilde kategorize edilmiştir:
 
-* AI/Backend Entegrasyonu: Gemini 2.5 modelinin kişilik analizi için entegre edilmesi 
-* Veri Yönetimi: 77 adet MBTI sorusunun kategorilere ayrılması ve 1-6 arası puanlama sisteminin geliştirilmesi
-* Kişilik Hesaplama Algoritması: 3'ten yüksek puanların değerlendirilmesi ve 4 harfli kişilik tipinin oluşturulması
-* Chatbot Entegrasyonu: Kişilik tipine göre özelleştirilmiş chatbot etkileşiminin tamamlanması
-* Veritabanı İşlemleri: Kişilik tipi sonuçlarının veritabanında saklanması ve görselleştirilmesi
-* Test ve Optimizasyon: Lokalde tam fonksiyonel çalışma testlerinin yapılması
+1. AI/Backend Entegrasyonu: Gemini 2.5 modelinin kişilik analizi için entegre edilmesi 
+2. Veri Yönetimi: 77 adet MBTI sorusunun kategorilere ayrılması ve 1-6 arası puanlama sisteminin geliştirilmesi
+3. Kişilik Hesaplama Algoritması: 3'ten yüksek puanların değerlendirilmesi ve 4 harfli kişilik tipinin oluşturulması
+4. Chatbot Entegrasyonu: Kişilik tipine göre özelleştirilmiş chatbot etkileşiminin tamamlanması
+5. Veritabanı İşlemleri: Kişilik tipi sonuçlarının veritabanında saklanması ve görselleştirilmesi
+6. Test ve Optimizasyon: Lokalde tam fonksiyonel çalışma testlerinin yapılması
