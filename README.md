@@ -122,7 +122,7 @@ Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
 6. Test ve Optimizasyon: Lokalde tam fonksiyonel çalışma testlerinin yapılması
 *  **Daily Scrum:** Daily Scrum toplantıları, ekip üyelerinin günlük ilerlemelerini paylaşmaları ve teknik engelleri çözmeleri amacıyla WhatsApp grubu üzerinden düzenli olarak gerçekleştirilmiştir. Final sprintte özellikle şu konular günlük olarak takip edilmiştir: Gemini 2.5 AI entegrasyonu sürecindeki ilerlemeler, kişilik hesaplama algoritmasının test sonuçları ve optimizasyonlar, chatbot geliştirme ve entegrasyon testlerinin durumu, veritabanı işlemleri ve performans iyileştirmeleri ile React–FastAPI–Node.js arasındaki sistem entegrasyonu testleri. Ayrıca API iletişiminde karşılaşılan JSON veri aktarım hataları hızlıca çözülmüş; frontend–backend veri uyumu, skorlama algoritmasındaki eşik değerlerinin netleştirilmesi ve kullanıcı girdilerinin doğru işlenmesi gibi detaylı teknik konular da günlük olarak takip edilmiştir. Bu esnek iletişim yapısı, ekip koordinasyonunu güçlendirmiş ve sprint hedeflerine ulaşılmasını sağlamıştır.
 *  **Sprint Board Update:**
-   ![Sprint Board - Sprint 3](./images/backlog22.png)
+   ![Sprint Board - Sprint 3](./images/pano2.png)
 *  **Ürün Durumu Ekran Görüntüleri:**
 1. Kişilik Tipleri Hakkında Bilgiler :
  ![Ürün Görseli 4](images/product4.jpeg)
