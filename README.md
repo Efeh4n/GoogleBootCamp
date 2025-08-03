@@ -109,3 +109,16 @@ Katılımcılar:
 Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
 
 *  **Sprint Retrospective:** Bu sprintte frontend ve backend ekipleri arasında koordinasyon önceki sprinte göre daha net sağlanmıştır. Ancak chatbot entegrasyonu gibi bazı görevlerin ertelenmesi gerektiği için planlamada ufak kaymalar yaşanmıştır. İleriye dönük olarak, sprint başında görevlerin önceliklendirilmesi ve tamamlanma sürelerinin daha gerçekçi tahmin edilmesi gerektiği vurgulanmıştır. WhatsApp üzerinden günlük ilerleme paylaşımına devam edilmesi ve haftalık çevrimiçi kısa toplantıların eklenmesi kararlaştırılmıştır.
+
+# SPRINT 3
+
+* **Sprint Notları:** MindHelp projesinin final sprintinde, React frontend, FastAPI backend ve Node.js servisleri kullanılarak tam fonksiyonel platform geliştirilmiştir. Gemini 2.5 AI modeli entegre edilerek kişilik analizi sistemi tamamlanmıştır. Bu sprintte ürün lokalde çalışır duruma getirilmiş ve tüm ana özellikler entegre edilmiştir.
+
+*  **Backlog düzeni ve story seçimleri:** Sprint 3'te yer alan backlog görevleri şu şekilde kategorize edilmiştir:
+
+AI/Backend Entegrasyonu: Gemini 2.5 modelinin kişilik analizi için entegre edilmesi
+Veri Yönetimi: 77 adet MBTI sorusunun kategorilere ayrılması ve 1-6 arası puanlama sisteminin geliştirilmesi
+Kişilik Hesaplama Algoritması: 3'ten yüksek puanların değerlendirilmesi ve 4 harfli kişilik tipinin oluşturulması
+Chatbot Entegrasyonu: Kişilik tipine göre özelleştirilmiş chatbot etkileşiminin tamamlanması
+Veritabanı İşlemleri: Kişilik tipi sonuçlarının veritabanında saklanması ve görselleştirilmesi
+Test ve Optimizasyon: Lokalde tam fonksiyonel çalışma testlerinin yapılması
