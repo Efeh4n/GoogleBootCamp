@@ -113,12 +113,19 @@ Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
 # SPRINT 3
 
 * **Sprint Notları:** MindHelp projesinin final sprintinde, React frontend, FastAPI backend ve Node.js servisleri kullanılarak tam fonksiyonel platform geliştirilmiştir. Gemini 2.5 AI modeli entegre edilerek kişilik analizi sistemi tamamlanmıştır. Bu sprintte ürün lokalde çalışır duruma getirilmiş ve tüm ana özellikler entegre edilmiştir.
-
 *  **Backlog düzeni ve story seçimleri:** Sprint 3'te yer alan backlog görevleri şu şekilde kategorize edilmiştir:
-
 1. AI/Backend Entegrasyonu: Gemini 2.5 modelinin kişilik analizi için entegre edilmesi 
 2. Veri Yönetimi: 77 adet MBTI sorusunun kategorilere ayrılması ve 1-6 arası puanlama sisteminin geliştirilmesi
 3. Kişilik Hesaplama Algoritması: 3'ten yüksek puanların değerlendirilmesi ve 4 harfli kişilik tipinin oluşturulması
 4. Chatbot Entegrasyonu: Kişilik tipine göre özelleştirilmiş chatbot etkileşiminin tamamlanması
 5. Veritabanı İşlemleri: Kişilik tipi sonuçlarının veritabanında saklanması ve görselleştirilmesi
 6. Test ve Optimizasyon: Lokalde tam fonksiyonel çalışma testlerinin yapılması
+*  **Daily Scrum:** Daily Scrum toplantıları, ekip üyelerinin günlük ilerlemelerini paylaşmaları ve teknik engelleri çözmeleri amacıyla WhatsApp grubu üzerinden düzenli olarak gerçekleştirilmiştir. Final sprintte özellikle şu konular günlük olarak takip edilmiştir: Gemini 2.5 AI entegrasyonu sürecindeki ilerlemeler, kişilik hesaplama algoritmasının test sonuçları ve optimizasyonlar, chatbot geliştirme ve entegrasyon testlerinin durumu, veritabanı işlemleri ve performans iyileştirmeleri ile React–FastAPI–Node.js arasındaki sistem entegrasyonu testleri. Ayrıca API iletişiminde karşılaşılan JSON veri aktarım hataları hızlıca çözülmüş; frontend–backend veri uyumu, skorlama algoritmasındaki eşik değerlerinin netleştirilmesi ve kullanıcı girdilerinin doğru işlenmesi gibi detaylı teknik konular da günlük olarak takip edilmiştir. Bu esnek iletişim yapısı, ekip koordinasyonunu güçlendirmiş ve sprint hedeflerine ulaşılmasını sağlamıştır.
+*  **Sprint Board Update:**
+   ![Sprint Board - Sprint 3](./images/backlog22.png)
+*  **Sprint Review:** Tüm sprintlerin sonunda gerçekleştirilen final değerlendirmede, projenin temel bileşenleri başarıyla tamamlanmıştır. Gemini 2.5 AI modeli sisteme entegre edilmiş ve kişilik analizlerini hatasız şekilde gerçekleştirmektedir. MBTI temelli test sistemi kapsamında 77 soru kategorilere ayrılmış, 1–6 arası puanlama sistemi başarıyla uygulanmıştır. Bu altyapıya bağlı olarak geliştirilen kişilik hesaplama algoritması, 3’ten yüksek puanları baz alarak kullanıcıya özel 4 harfli kişilik tipi üretmektedir. Oluşturulan kişilik tipleri veritabanında saklanmakta ve kullanıcıya görsel olarak sunulmaktadır. Kullanıcının kişilik tipine göre yanıt verebilen özelleştirilmiş chatbot yapısı da başarıyla çalışmaktadır. Teknik altyapı olarak React tabanlı frontend, FastAPI ile geliştirilen backend ve Node.js servisleri sorunsuz şekilde entegre edilmiştir. Tüm sistem testleri tamamlanmış olup ürün, lokal ortamda tam fonksiyonel olarak çalışmaktadır.
+
+Katılımcılar:
+Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
+
+*  **Sprint Retrospective:** Final sprintte ekip daha koordineli çalışmıştır. Gemini 2.5 AI entegrasyonu ve kişilik algoritması geliştirmede bilgi paylaşımı etkin yapılmıştır. WhatsApp üzerinden günlük iletişim, AI testleri ve sistem entegrasyonunda kritik rol oynamıştır. 77 soruluk MBTI testinin kategorize edilmesi ve puanlama sisteminde görev dağılımı başarılı olmuştur. React-FastAPI-Node.js stack öğreniminde ekip birbirini desteklemiştir.
