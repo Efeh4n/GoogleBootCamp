@@ -124,8 +124,11 @@ Fatma Didenur Özgüven, Efehan Hüsrevoğlu, Ahmet Efe Akçay, Yusuf Koğa
 *  **Sprint Board Update:**
    ![Sprint Board - Sprint 3](./images/backlog22.png)
 *  **Ürün Durumu Ekran Görüntüleri:**
+1. Kişilik Tipleri Hakkında Bilgiler :
  ![Ürün Görseli 4](images/product4.jpeg)
+2. Uygulama İçi Görsel :
 ![Ürün Görseli 5](images/uygici.jpeg)
+3. Database :
 ![Ürün Görseli 6](images/database.jpeg)
 *  **Sprint Review:** Tüm sprintlerin sonunda gerçekleştirilen final değerlendirmede, projenin temel bileşenleri başarıyla tamamlanmıştır. Gemini 2.5 AI modeli sisteme entegre edilmiş ve kişilik analizlerini hatasız şekilde gerçekleştirmektedir. MBTI temelli test sistemi kapsamında 77 soru kategorilere ayrılmış, 1–6 arası puanlama sistemi başarıyla uygulanmıştır. Bu altyapıya bağlı olarak geliştirilen kişilik hesaplama algoritması, 3’ten yüksek puanları baz alarak kullanıcıya özel 4 harfli kişilik tipi üretmektedir. Oluşturulan kişilik tipleri veritabanında saklanmakta ve kullanıcıya görsel olarak sunulmaktadır. Kullanıcının kişilik tipine göre yanıt verebilen özelleştirilmiş chatbot yapısı da başarıyla çalışmaktadır. Teknik altyapı olarak React tabanlı frontend, FastAPI ile geliştirilen backend ve Node.js servisleri sorunsuz şekilde entegre edilmiştir. Tüm sistem testleri tamamlanmış olup ürün, lokal ortamda tam fonksiyonel olarak çalışmaktadır.
 
